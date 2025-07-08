@@ -43,6 +43,18 @@ cd LLM-powered-Sentiment-Analysis
 - Read the comment and Run each cell.
 
 ---
+
+##    Model Weights Download
+
+Due to file size limits on GitHub, the trained model file is hosted on Google Drive:
+
+👉 Download the trained model weights (.pth file) from Google Drive [Link] (https://drive.google.com/file/d/1qBiJxbn9Hdt3TKPBTYKK2dyK1XJefVCy/view?usp=drive_link)
+
+After downloading, place the .pth file in the project folder. Update any file path in the notebook or app as needed to match the location of the downloaded weights.
+
+
+
+---
 ##   How to Upload The trained Model to Google Colab
 
 If you want to test your pretrained weights
