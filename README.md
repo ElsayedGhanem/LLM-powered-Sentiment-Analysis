@@ -28,6 +28,7 @@ This project performs sentiment analysis on the IMDB movie reviews dataset using
  IMDB_Sentiment_Analysis
 │
 ├── sentiment_analysis_notebook.ipynb
+├── sentiment_app.py
 ├── bert_sentiment_model.pth
 └── README.md
  ```       
