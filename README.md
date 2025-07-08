@@ -30,7 +30,7 @@ This project performs sentiment analysis on the IMDB movie reviews dataset using
 ---
 ##   How to Run This Project
 1-  Clone the repository
-
+'''bash
 git clone https://github.com/ElsayedGhanem/IMDB_Sentiment_Analysis.git
 cd IMDB_Sentiment_Analysis
 
