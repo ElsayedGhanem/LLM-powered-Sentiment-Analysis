@@ -21,12 +21,6 @@ This project performs sentiment analysis on the IMDB movie reviews dataset using
 - NLTK – for basic text preprocessing
 ---
 ##   Folder Structure
-📂 IMDB_Sentiment_Analysis
-│
-├── sentiment_analysis_notebook.ipynb
-├── bert_sentiment_model.pth
-└── README.md
-
 <pre> ## Folder Structure ``` IMDB_Sentiment_Analysis │ ├── sentiment_analysis_notebook.ipynb ├── bert_sentiment_model.pth └── README.md ``` </pre>
 
 ---
