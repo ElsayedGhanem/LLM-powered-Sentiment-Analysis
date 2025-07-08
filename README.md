@@ -33,7 +33,7 @@ This project performs sentiment analysis on the IMDB movie reviews dataset using
 ```bash
 git clone https://github.com/ElsayedGhanem/IMDB_Sentiment_Analysis.git
 cd IMDB_Sentiment_Analysis
-
+```
 2- Open the Notebook
 - You can use Jupyter Notebook or Google Colab.
 - Upload the Sentiment_Analysis_BERT.ipynb into Google Colab
