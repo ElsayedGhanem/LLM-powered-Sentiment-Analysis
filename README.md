@@ -27,6 +27,8 @@ This project performs sentiment analysis on the IMDB movie reviews dataset using
 ├── bert_sentiment_model.pth
 └── README.md
 
+<pre> ## Folder Structure ``` IMDB_Sentiment_Analysis │ ├── sentiment_analysis_notebook.ipynb ├── bert_sentiment_model.pth └── README.md ``` </pre>
+
 ---
 ##   How to Run This Project
 1-  Clone the repository
@@ -40,7 +42,7 @@ cd IMDB_Sentiment_Analysis
 - Read the comment and Run each cell.
 
 ---
-##   How to Upload Your Model to Google Colab
+##   How to Upload The trained Model to Google Colab
 
 If you want to test your pretrained weights
 ```bash
