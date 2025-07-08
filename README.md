@@ -43,13 +43,14 @@ cd IMDB_Sentiment_Analysis
 ##   How to Upload Your Model to Google Colab
 
 If you want to test your pretrained weights
-
+```bash
 from google.colab import files
 uploaded = files.upload()
-
+```
 Load the model
+```bash
 model.load_state_dict(torch.load('bert_sentiment_model.pth'))
 model.eval()
-
+```
 
 
