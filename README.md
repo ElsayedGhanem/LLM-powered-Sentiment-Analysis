@@ -48,7 +48,7 @@ cd LLM-powered-Sentiment-Analysis
 
 Due to file size limits on GitHub, the trained model file is hosted on Google Drive:
 
-👉 [Download the trained model (.pth) file](https://drive.google.com/file/d/1qBiJxbn9Hdt3TKPBTYKK2dyK1XJefVCy/view?usp=drive_link)
+👉 [Download the trained model (.pth) file](https://drive.google.com/file/d/1Jyn2gS5622krssoMnYVaixpOH0Gnsl-V/view?usp=drive_link)
 ### Instructions:
 - Download the .pth file from the link.
 - Place it in your project folder.
