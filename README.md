@@ -49,7 +49,16 @@ uploaded = files.upload()
 ```
 Load the model
 ```bash
-model.load_state_dict(torch.load('bert_sentiment_model.pth'))
+from transformers import BertForSequenceClassification
+import torch
+model_checkpoint = "bert-base-uncased"
+
+model = BertForSequenceClassification.from_pretrained(
+    model_checkpoint,
+    num_labels=2
+)
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+model.load_state_dict(torch.load("bert_sentiment_model.pth", map_location=device))
 model.eval()
 ```
 
