@@ -20,14 +20,14 @@ This project performs sentiment analysis on the IMDB movie reviews dataset using
 - Matplotlib / Seaborn – for visualization
 - NLTK – for basic text preprocessing
 ---
-##   Folder Structure
-<pre> ## Folder Structure 
-    
+
+ ## Folder Structure 
+ 
     ``` 
     IMDB_Sentiment_Analysis │ ├── sentiment_analysis_notebook.ipynb ├── bert_sentiment_model.pth └── README.md 
     
     ``` 
-</pre>
+
 
 ---
 ##   How to Run This Project
