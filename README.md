@@ -90,10 +90,14 @@ This project includes a simple Streamlit app that allows you to classify any tex
 - Get the sentiment prediction (Positive / Negative).
 
 ### 📋 How to Run the App 
+
+### 1️⃣ Upload the bert_sentiment_model.pth into Colab
 ```bash
 pip install streamlit
 pip install transformers torch
 streamlit run sentiment_app.py
 ```
-
-
+### 2️⃣ Load the model
+```bash
+streamlit run sentiment_app.py
+```
