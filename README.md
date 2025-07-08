@@ -91,6 +91,7 @@ This project includes a simple Streamlit app that allows you to classify any tex
 ### 📋 How to Run the App 
 ```bash
 pip install streamlit
+pip install transformers torch
 streamlit run sentiment_app.py
 ```
 
