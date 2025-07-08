@@ -24,8 +24,7 @@ This project performs sentiment analysis on the IMDB movie reviews dataset using
  ## Folder Structure 
 
  ```
-
-    IMDB_Sentiment_Analysis
+ IMDB_Sentiment_Analysis
 │
 ├── sentiment_analysis_notebook.ipynb
 ├── bert_sentiment_model.pth
