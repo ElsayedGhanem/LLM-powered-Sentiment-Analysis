@@ -34,8 +34,8 @@ This project performs sentiment analysis on the IMDB movie reviews dataset using
 ##   How to Run This Project
 1-  Clone the repository
 ```bash
-git clone https://github.com/ElsayedGhanem/IMDB_Sentiment_Analysis.git
-cd IMDB_Sentiment_Analysis
+git clone https://github.com/ElsayedGhanem/LLM-powered-Sentiment-Analysis.git
+cd LLM-powered-Sentiment-Analysis
 ```
 2- Open the Notebook
 - You can use Jupyter Notebook or Google Colab.
