@@ -89,15 +89,24 @@ This project includes a simple Streamlit app that allows you to classify any tex
 - Input any custom text.
 - Get the sentiment prediction (Positive / Negative).
 
-### 📋 How to Run the App 
+### 📌 How to Run the Streamlit App 
 
-### 1️⃣ Upload the bert_sentiment_model.pth into Colab
+Follow these simple steps to launch the app locally:
+
+### 1️⃣ Install Required Libraries
+Open your terminal and install the necessary packages:
 ```bash
 pip install streamlit
 pip install transformers torch
 streamlit run sentiment_app.py
 ```
-### 2️⃣ Load the model
+### 2️⃣ Navigate to the Project Directory
+```bash
+cd C:\Users\eygha\Desktop\Sentiment_Analysis_Project
+```
+### 3️⃣ Finally, start the Streamlit app with
 ```bash
 streamlit run sentiment_app.py
 ```
+Once the command runs, your default web browser will open with the interactive sentiment analysis app ready to use! 🚀
+
