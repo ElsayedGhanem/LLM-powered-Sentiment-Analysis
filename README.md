@@ -80,6 +80,7 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 model.load_state_dict(torch.load("bert_sentiment_model.pth", map_location=device))
 model.eval()
 ```
+---
 
 ## 🌐 Deploying with Streamlit
 
