@@ -56,7 +56,8 @@ Due to file size limits on GitHub, the trained model file is hosted on Google Dr
 - Update file paths in the notebook or app if needed.
 
 ---
-## 💻How to Upload The trained Model to Google Colab
+
+## 💻How to Upload the Trained Model to Google Colab
 
 If you want to test your pretrained weights
 
